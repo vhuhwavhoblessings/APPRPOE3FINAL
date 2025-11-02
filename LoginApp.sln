@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApp", "LoginApp\LoginA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApp.Tests", "LoginApp.Tests\LoginApp.Tests.csproj", "{8302A0FE-C4C6-41CD-BB81-EB01C72609D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApp.UITests", "LoginApp.UITests\LoginApp.UITests.csproj", "{7ECA35F6-340E-4B20-8872-F50DBD277110}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8302A0FE-C4C6-41CD-BB81-EB01C72609D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8302A0FE-C4C6-41CD-BB81-EB01C72609D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8302A0FE-C4C6-41CD-BB81-EB01C72609D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ECA35F6-340E-4B20-8872-F50DBD277110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECA35F6-340E-4B20-8872-F50DBD277110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECA35F6-340E-4B20-8872-F50DBD277110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECA35F6-340E-4B20-8872-F50DBD277110}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
